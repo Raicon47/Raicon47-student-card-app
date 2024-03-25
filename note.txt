@@ -1,0 +1,21 @@
+primary = blue
+secondary = grey 
+info =
+dark = black
+success = green 
+warning = yellow
+danger = red
+
+y = up and down axis
+
+x = left and right exis
+
+ratios = 1,2,3,4,5.
+
+
+***************************
+
+-git init //initialization
+-git add //adding project files
+git commit -m 'commit note //commit project to version
+gt
